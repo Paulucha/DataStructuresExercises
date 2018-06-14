@@ -10,7 +10,7 @@ public class Country {
 
 
     // | konstruktor przekazującu informacje
-    public Country (String name, City[] cities){
+    public Country (String name){
         this.name = name;
         this.cities = cities;
 
